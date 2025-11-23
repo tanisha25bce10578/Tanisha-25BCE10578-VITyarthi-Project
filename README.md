@@ -26,14 +26,13 @@ calculate totals, and generate a formatted receipt.
 
 # Technologies Used
 
-• Programming Language: Python / Java / C++ / Web Tech (depending on your 
-implementation) 
+• Programming Language: Python / Java / C++ / Web Tech (depend on you)
 
 • Frontend: HTML/CSS/JS (if web) 
 
 • Database: MySQL / SQLite / JSON file
 
-• Tools: VS Code / PyCharm / IntelliJ (as applicable)
+• Tools: VS Code / PyCharm (as applicable)
 
 
 
@@ -84,8 +83,6 @@ The system generates a formatted receipt containing:
 
 • Payment Method 
 
-• Timestamp 
-
 • Organization Info 
 
 • Date and Time 
@@ -97,8 +94,6 @@ The system generates a formatted receipt containing:
 # Learning Outcomes 
 
 • Understanding of file handling / database operations 
-
-• Basic GUI / Web form creation 
 
 • Data validation and error handling 
 
